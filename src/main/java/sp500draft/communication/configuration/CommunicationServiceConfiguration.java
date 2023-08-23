@@ -1,4 +1,4 @@
-package sp500draft.configuration;
+package sp500draft.communication.configuration;
 
 import org.modelmapper.ModelMapper;
 import org.modelmapper.config.Configuration.AccessLevel;
